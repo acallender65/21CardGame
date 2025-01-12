@@ -16,7 +16,7 @@ var pressed = false;
 var happy = false;
 //var ends = [];
 
-export default async function startgame(deck, mainresult, ends, rounds){
+export default async function startgame(deck, mainresult, ends){
     //var hidden = deck.cards.pop();
     //var value = hidden.value
     //dealersum += getvalue(value);
